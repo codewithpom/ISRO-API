@@ -31,7 +31,7 @@ app.get("/spacecrafts", async (req, res) => {
   res = make_resp(res, "spacecrafts.json")
 });
 
-app.get("/centres", async (req, res) => {
+app.get("/centers", async (req, res) => {
   res = make_resp(res, "centres.json")
 });
 
