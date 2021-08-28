@@ -1,0 +1,94 @@
+{
+    "centres": [
+        {
+            "Centre Full Name": "Vikram Sarabhai Space Centre",
+            "short": "VSSC",
+            "description": "Vikram Sarabhai Space Centre (VSSC), Thiruvananthapuram, is the lead centre of ISRO responsible for the design and development of launch vehicle technology. The Centre pursues active research and development in the fields of aeronautics, avionics, materials, mechanisms, vehicle integration, chemicals, propulsion, space ordnance, structures, space physics and  systems reliability. The Centre undertakes crucial   responsibilities of  design,  manufacturing,  analysis,  development  and  testing  related  to  the realisation of subsystems for the different missions. These are sustained by activities towards programme. Planning  and evaluation, technology transfer, industry coordination, human resources development  and safety. Planning, execution and maintenance of all civil works related to the Centre is also carries out. The Centre depends on administrative and auxiliary services for support.\nVSSC has  extension Centres at  Valiamala housing  major  facilities of  mechanisms, vehicle  integration and testing and at Vattiyoorkavu for the development of composites.   The Ammonium Perchlorate Experimental Plant (APEP) has been set up by VSSC at Aluva near Kochi.\nThe  major  programmes  at  VSSC  include  Polar  Satellite  Launch  Vehicle  (PSLV),  Geosynchronous Satellite Launch Vehicle (GSLV) and Rohini Sounding Rockets as well as the development of Geosynchronous Satellite Launch Vehicle (GSLV) Mk Ill, Reusable Launch Vehicles, advanced technology vehicles, air-breathing propulsion and critical technologies towards human spaceflight.",
+            "Location": "Thiruvananthapuram",
+            "Address": "Vikram Sarabhai Space Center\nTrivandrum - 695022n\nKerala, India",
+            "Email": "director@vssc.gov.in",
+            "Director": "Shri S. Somanath"
+        },
+        {
+            "Centre Full Name": "Liquid Propulsion Systems Centre (Valiamala)",
+            "short": "LPSC, Valiamala",
+            "description": "LPSC, Valaimala is responsible for R&D, System Design I Engineering and Project Management functions. The Fluid Control Components Entity and the Materials and Manufacturing Entities are located here apart  from the Earth Storable and Cryogenic  Propulsion Entities, handling  the core  tasks of the Centre.",
+            "Location": "Valiamala",
+            "Address": "Liquid Propulsion Systems Centre (LPSC)\nISRO, Department of Space\nValiamala PO\nThiruvanthapuram - 695 547",
+            "Email": "director@lpsc.gov.in",
+            "Director": "Dr. V. Narayanan"
+        },
+        {
+            "Centre Full Name": "Liquid Propulsion Systems Centre (Bengaluru)",
+            "short": "LPSC, Bengaluru",
+            "description": "LPSC, Bengaluru is responsible for design and realisation of propulsion systems for remote sensing and communication satellites and other scientific missions. Development and production of transducers and sensors are all undertaken here.",
+            "Location": "Bengaluru",
+            "Address": "Liquid Propulsion Systems Centre (LPSC)\nISRO, Department of Space\n80 Ft. Road\nHAL 2nd Stage, H.P.O.\nBengaluru - 560 008",
+            "Email": null,
+            "Director": null
+        },
+        {
+            "Centre Full Name": "Satish Dhawan Space Centre (SDSC) SHAR",
+            "short": "SDSC",
+            "description": "Satish  Dhawan  Space  Centre  (SDSC)  SHAR,  Sriharikota, the  Spaceport  of  India,  is  responsible  for providing  Launch  Base  Infrastructure  for the  Indian  Space Programme. This  Centre has  the  facilities for  solid propellant  processing,  static  testing  of  solid  motors,  launch  vehicle  integration  and  launch operations, range operations comprising telemetry, tracking and command network and mission control centre.\nThe Centre has two launch pads from where the rocket launching operations of PSLV and GSLV are carried out. The mandate for the centre is (i) to produce solid propellant boosters for the launch vehicle programmes of ISRO (ii) to provide the infrastructure for qualifying various subsystems and solid rocket motors and carrying out the necessary tests (iii) to provide launch base infrastructure for satellites and launch vehicles.\nSDSC SHAR has a separate launch pad for launching sounding rockets. The centre also provides the necessary  launch base  infrastructure for sounding rockets of  ISRO and  for assembly, integration and launch of sounding rockets and payloads.",
+            "Location": "Sriharikota",
+            "Address": "Satish Dhawan Space Centre (SDSC)\nSHAR, Sriharikota Range PO - 524 124\nNellore District, Andhra Pradesh",
+            "Email": "director@lpsc.gov.in",
+            "Director": "Shri A Rajarajan"
+        },
+        {
+            "Centre Full Name": "U R Rao Satellite Centre (URSC)",
+            "short": "URSC",
+            "description": "U R Rao Satellite Centre (URSC), Bengaluru, formerly known as ISRO Satellite Centre (ISAC) is the lead centre for building satellites and developing associated satellite technologies. These spacecraft are used for providing applications to various users in the area of Communication, Navigation, Meteorology, Remote Sensing, Space Science and interplanetary explorations. The Centre is also pursuing advanced technologies for future missions. URSC is housed with the state-of-the-art facilities for building satellites on end-to-end basis. ISRO Satellite Integration and Test Establishment  (ISITE) is  equipped  with  state-of-the-art  clean  room  facilities  for spacecraft integration and test facilities including a 6.5 Metre thermo vacuum chamber, 29 Ton vibration facility, Compact Antenna Test Facility and  acoustic test facility under one roof. Assembly, Integration and Testing of all Communication and Navigation Spacecraft is carried out at ISITE. A dedicated facility for the productionisation of standardised subsystems is established at ISITE.\nURSC has a unit called Laboratory for Electro Optics System (LEOS), which is situated in Peenya, Bengaluru and is mainly responsible for research, development and productionisation of Sensors for ISRO programmes.\nSince inception, URSC has the distinction of building more than 100 satellites for various applications like scientific, communication, Navigation and remote sensing. Many private and public sector industries are also supporting ISAC in realising standard satellite hardware.",
+            "Location": "Bengaluru",
+            "Address": "U R Rao Satellite Centre (URSC)\nOld Airport Road\nVimanapura Post, Bengaluru - 560 017\nKarnataka, India",
+            "Email": "directoroffice@isac.gov.in",
+            "Director": "Shri M. Sankaran"
+        },
+        {
+            "Centre Full Name": "ISRO Propulsion Complex (IPRC)",
+            "short": "IPRC",
+            "description": "ISRO Propulsion Complex (IPRC), Mahendragiri is equipped with the state-of-the-art facilities necessary for realising the cutting edge propulsion technology products for the Indian space programme. Formerly, IPRC was known as LPSC, Mahendragiri and taking cognizance of the future growth of the space program of our nation and the concomitant expansion at Mahendragiri, it was elevated as IPRC with effect from February 01, 2014.\nThe activities carried out at IPRC, Mahendragiri are: assembly, integration and testing of earth storable propellant engines, cryogenic engines and stages for launch vehicles; high altitude testing of upper stage engines and spacecraft thrusters as well as testing of its sub systems; production and supply of cryogenic propellants for Indian cryogenic rocket programme, etc. A Semi-cryogenic Cold Flow Test facility (SCFT) has been established at IPRC, Mahendragiri for the development, qualification and acceptance testing of semicryogenic engine subsystems.\nIPRC is responsible for the supply of Storable Liquid Propellants for ISRO’s launch vehicles and satellite programmes. IPRC delivers quality products to meet the zero defect demand of ISRO space programme ensuring high standards of safety and reliability. It also carries out Research & Development (R&D) and Technology Development Programmes (TDP) towards continued improvement of its contribution to the Indian space programme.",
+            "Location": "Tirunelveli",
+            "Address": "ISRO Propulsion Complex\nISRO, Department of Space\nMahendragiri, Tirunelveli District\nTamil Nadu - 627 133",
+            "Email": "director@iprc.gov.in",
+            "Director": "Mr. K Alaguvelu"
+        },
+        {
+            "Centre Full Name": "Space Applications Centre (SAC)",
+            "short": "SAC",
+            "description": "Space Applications Centre (SAC) at Ahmedabad is spread across two campuses having multi-disciplinary activities. The core competence of the Centre lies in  development of space borne and air borne instruments / payloads and their applications for national development and societal benefits. These applications are in diverse areas and primarily meet the communication, navigation and remote sensing needs of the country. Besides these, the Centre also contributed significantly in scientific and planetary missions of ISRO like Chandrayaan-1, Mars Orbiter Mission, etc. The communication transponders developed at this Centre for Indian National Satellite (INSAT) and Geo Synchronous Satellite (GSAT) series of satellites are used by government and private sector for VSAT, DTH, Internet, broadcasting, telephones etc.\nMain Engine and Stage Test Facility at SAC this centre also designs and develops the optical and microware sensors for the satellites, signal and image processing software, GIS software and many applications for Earth Observation (EO) programme of ISRO. These applications are in diverse areas of Geosciences, Agriculture, Environment and Climate Change, Physical Oceanography, Biological Oceanography, Atmosphere, Cryosphere, Hydrosphere, etc. The facilities at SAC include highly sophisticated payload integration laboratories, electronic and mechanical fabrication facilities, environmental test facilities, systems reliability / assurance group, image processing and analysis facilities, project management support group and a well-stocked library. SAC has active collaborations with industry, academia, national and international institutes for research and development. The Centre also conducts nine-month post graduate diploma courses for students from the Asia Pacific region under the aegis of the Centre for Space Science and Technology Education (CSSTE-AP) in satellite meteorology and communication.",
+            "Location": "Ahmedabad",
+            "Address": "Space Applications Centre\nJodhpur Tekra, Ambawadi Vistar P.O.\nAhmedabad - 380015",
+            "Email": "director@sac.isro.gov.in",
+            "Director": "Shri N M Desai"
+        },
+        {
+            "Centre Full Name": "National Remote Sensing Centre (NRSC)",
+            "short": "NRSC",
+            "description": "National Remote Sensing Centre (NRSC) at Hyderabad is responsible for remote sensing satellite data acquisition and processing, data dissemination, aerial remote sensing and decision support for disaster management. NRSC has a data reception station at Shadnagar near Hyderabad for acquiring data from Indian remote sensing satellites as well as others.\nNRSC Ground station at Shadnagar acquires Earth Observation data from Indian remote-sensing satellites as well as from different foreign satellites. NRSC is also engaged in executing remote sensing application projects in collaboration with the users. The Aerial Services and Digital Mapping (ASDM) Area provides end-to-end Aerial Remote Sensing services and value-added solutions for various large scale applications like aerial photography and digital mapping, infrastructure planning, scanner surveys, aeromagnetic surveys, large scale base map, topographic and cadastral level mapping, etc.\nRegional Remote Sensing Centres (RRSCs) support various remote sensing tasks specific to their regions as well as at the national level. RRSCs are carrying out application projects encompassing all the fields of natural resources. RRSCs are also, involved in software development, customisation and packaging specific to user requirements and conducting regular training programmes for users in geo-spatial technology, particularly digital image processing and Geographical Information System (GIS) applications.",
+            "Location": "Hyderabad",
+            "Address": "National Remote Sensing Centre\nDept. of Space, Govt. Of India\nHyderabad - 500 037\nAndhra Pradesh",
+            "Email": "director@nrsc.isro.gov.in",
+            "Director": "Dr. Raj Kumar"
+        },
+        {
+            "Centre Full Name": "ISRO Telemetry, Tracking and Command Network (ISTRAC)",
+            "short": "ISTRAC",
+            "description": "ISRO Telemetry, Tracking and Command Network (ISTRAC), Bengaluru is entrusted with the major responsibility to provide tracking support for all the satellite and launch vehicle missions of ISRO. The major objectives of the centre are: carrying out mission operations of all  operational remote sensing and scientific satellites, providing Telemetry, Tracking and Command (TTC) services from launch vehicle lift-off till injection of satellite into orbit and to estimate its preliminary orbit in space and hardware and software developmental activities that enhance the capabilities of ISTRAC for providing flawless TTC and Mission Operations services. Towards, these objectives, ISTRAC has established a network of ground stations at Bengaluru, Lucknow, Mauritius, Sriharikota, Port Blair, Thiruvananthapuram, Brunei, Biak (Indonesia) and the Deep Space Network Stations.\nIn keeping with its long-established TTC support responsibility, ISTRAC has also been mandated to provide space operations support for Deep Space Missions of ISRO, undertake development of radar systems for launch vehicle tracking and meteorological applications, establish and operationalise the ground segment for Indian Regional Navigational Satellite System, provide Search & Rescue and Disaster Management Services and support space based services like telemedicine, Village Resource Centre (VRC) and tele-education.",
+            "Location": "Bengaluru",
+            "Address": "ISRO Telemetry Tracking and Command Network (ISTRAC)\nPlot No. 12 & 13, 3rd Main, 2nd phase\nPeenya Industrial Area\nBengaluru – 560 058",
+            "Email": "director@istrac.gov.in",
+            "Director": "Mr. V V Srinivasan"
+        },
+        {
+            "Centre Full Name": "Master Control Facility (MCF)",
+            "short": "MCF",
+            "description": "Master Control Facility (MCF) at Hassan in Karnataka and Bhopal in Madhya Pradesh monitors and controls all the Geostationary / Geosynchronous satellites of ISRO, namely, INSAT, GSAT, Kalpana and IRNSS series of satellites. MCF is responsible for Orbit Raising of satellites, In-orbit payload testing, and On-orbit operations all through the life of these satellites. MCF activities include round-the-clock Tracking, Telemetry & Commanding (TT&C) operations, and special operations like Eclipse management, Station-keeping manoeuvres and recovery actions in case of contingencies. MCF interacts with User Agencies for effective utilisation of the satellite payloads and to minimise the service disturbances during special operations.",
+            "Location": "Karnataka",
+            "Address": "Master Control Facility (MCF)\nPB No. 66, Salagame road\nHassan - 573 201",
+            "Email": "director@mcf.gov.in",
+            "Director": "Sri. H. Premananda Shenoy"
+        }
+    ]
+}

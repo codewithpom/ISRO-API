@@ -1,0 +1,340 @@
+{
+    "spacecrafts": [
+        {
+            "id": "Aryabhata"
+        },
+        {
+            "id": "Bhaskara-I"
+        },
+        {
+            "id": "Rohini Technology Payload (RTP)"
+        },
+        {
+            "id": "Rohini Satellite RS-1"
+        },
+        {
+            "id": "Rohini Satellite RS-D1"
+        },
+        {
+            "id": "APPLE"
+        },
+        {
+            "id": "Bhaskara-II"
+        },
+        {
+            "id": "INSAT-1A"
+        },
+        {
+            "id": "Rohini Satellite RS-D2"
+        },
+        {
+            "id": "INSAT-1B"
+        },
+        {
+            "id": "SROSS-1"
+        },
+        {
+            "id": "IRS-1A"
+        },
+        {
+            "id": "SROSS-2"
+        },
+        {
+            "id": "INSAT-1C"
+        },
+        {
+            "id": "INSAT-1D"
+        },
+        {
+            "id": "IRS-1B"
+        },
+        {
+            "id": "SROSS-C"
+        },
+        {
+            "id": "INSAT-2A"
+        },
+        {
+            "id": "INSAT-2B"
+        },
+        {
+            "id": "IRS-1E"
+        },
+        {
+            "id": "SROSS-C2"
+        },
+        {
+            "id": "IRS-P2"
+        },
+        {
+            "id": "INSAT-2C"
+        },
+        {
+            "id": "IRS-1C"
+        },
+        {
+            "id": "IRS-P3"
+        },
+        {
+            "id": "INSAT-2D"
+        },
+        {
+            "id": "IRS-1D"
+        },
+        {
+            "id": "INSAT-2E"
+        },
+        {
+            "id": "Oceansat(IRS-P4)"
+        },
+        {
+            "id": "INSAT-3B"
+        },
+        {
+            "id": "GSAT-1"
+        },
+        {
+            "id": "The Technology Experiment Satellite (TES)"
+        },
+        {
+            "id": "INSAT-3C"
+        },
+        {
+            "id": "KALPANA-1"
+        },
+        {
+            "id": "INSAT-3A"
+        },
+        {
+            "id": "GSAT-2"
+        },
+        {
+            "id": "INSAT-3E"
+        },
+        {
+            "id": "IRS-P6 / RESOURCESAT-1"
+        },
+        {
+            "id": "EDUSAT"
+        },
+        {
+            "id": "HAMSAT"
+        },
+        {
+            "id": "CARTOSAT-1"
+        },
+        {
+            "id": "INSAT-4A"
+        },
+        {
+            "id": "INSAT-4C"
+        },
+        {
+            "id": "SRE-1"
+        },
+        {
+            "id": "CARTOSAT-2"
+        },
+        {
+            "id": "INSAT-4B"
+        },
+        {
+            "id": "INSAT-4CR"
+        },
+        {
+            "id": "CARTOSAT – 2A"
+        },
+        {
+            "id": "IMS-1"
+        },
+        {
+            "id": "Chandrayaan-1"
+        },
+        {
+            "id": "RISAT-2"
+        },
+        {
+            "id": "Oceansat-2"
+        },
+        {
+            "id": "GSAT-4"
+        },
+        {
+            "id": "CARTOSAT-2B"
+        },
+        {
+            "id": "GSAT-5P"
+        },
+        {
+            "id": "YOUTHSAT"
+        },
+        {
+            "id": "RESOURCESAT-2"
+        },
+        {
+            "id": "GSAT-8"
+        },
+        {
+            "id": "GSAT-12"
+        },
+        {
+            "id": "Megha-Tropiques"
+        },
+        {
+            "id": "RISAT-1"
+        },
+        {
+            "id": "GSAT-10"
+        },
+        {
+            "id": "SARAL"
+        },
+        {
+            "id": "IRNSS-1A"
+        },
+        {
+            "id": "INSAT-3D"
+        },
+        {
+            "id": "GSAT-7"
+        },
+        {
+            "id": "Mars Orbiter Mission Spacecraft"
+        },
+        {
+            "id": "GSAT-14"
+        },
+        {
+            "id": "IRNSS-1B"
+        },
+        {
+            "id": "IRNSS-1C"
+        },
+        {
+            "id": "GSAT-16"
+        },
+        {
+            "id": "Crew module Atmospheric Re-entry Experiment (CARE)"
+        },
+        {
+            "id": "IRNSS-1D"
+        },
+        {
+            "id": "GSAT-6"
+        },
+        {
+            "id": "Astrosat"
+        },
+        {
+            "id": "GSAT-15"
+        },
+        {
+            "id": "IRNSS-1E"
+        },
+        {
+            "id": "IRNSS-1F"
+        },
+        {
+            "id": "IRNSS-1G"
+        },
+        {
+            "id": "CARTOSAT-2 Series Satellite"
+        },
+        {
+            "id": "INSAT-3DR"
+        },
+        {
+            "id": "SCATSAT-1"
+        },
+        {
+            "id": "GSAT-18"
+        },
+        {
+            "id": "RESOURCESAT-2A"
+        },
+        {
+            "id": "INS-1B"
+        },
+        {
+            "id": "INS-1A"
+        },
+        {
+            "id": "Cartosat -2 Series Satellite"
+        },
+        {
+            "id": "GSAT-9"
+        },
+        {
+            "id": "GSAT-19"
+        },
+        {
+            "id": "Cartosat-2 Series Satellite"
+        },
+        {
+            "id": "GSAT-17"
+        },
+        {
+            "id": "IRNSS-1H"
+        },
+        {
+            "id": "INS-1C"
+        },
+        {
+            "id": "Cartosat-2 Series Satellite"
+        },
+        {
+            "id": "Microsat"
+        },
+        {
+            "id": "GSAT-6A"
+        },
+        {
+            "id": "IRNSS-1I"
+        },
+        {
+            "id": "GSAT-29"
+        },
+        {
+            "id": "HysIS"
+        },
+        {
+            "id": "GSAT-11 Mission"
+        },
+        {
+            "id": "GSAT-7A"
+        },
+        {
+            "id": "Microsat-R"
+        },
+        {
+            "id": "GSAT-31"
+        },
+        {
+            "id": "EMISAT"
+        },
+        {
+            "id": "RISAT-2B"
+        },
+        {
+            "id": "Chandrayaan2"
+        },
+        {
+            "id": "Cartosat-3"
+        },
+        {
+            "id": "RISAT-2BR1"
+        },
+        {
+            "id": "GSAT-30"
+        },
+        {
+            "id": "EOS-01"
+        },
+        {
+            "id": "CMS-01"
+        },
+        {
+            "id": "EOS-03"
+        }
+    ]
+}
