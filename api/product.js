@@ -18,7 +18,6 @@ function make_resp(res, file_name) {
   return res
 }
 
-
 app.get("/customer_satellites", async (req, res) => {
   res = make_resp(res, "customers.json")
 });
