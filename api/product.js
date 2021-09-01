@@ -20,19 +20,19 @@ function make_resp(res, file_name) {
 
 
 app.get("/customer_satellites", async (req, res) => {
-  res = make_resp(res, "customers.json")
+  res = make_resp(res, "../data/customers.json")
 });
 
 app.get("/launchers", async (req, res) => {
-  res = make_resp(res, "launchers.json")
+  res = make_resp(res, "../data/launchers.json")
 });
 
 app.get("/spacecrafts", async (req, res) => {
-  res = make_resp(res, "spacecrafts.json")
+  res = make_resp(res, "../data/spacecrafts.json")
 });
 
 app.get("/centers", async (req, res) => {
-  res = make_resp(res, "centres.json")
+  res = make_resp(res, "../data/centres.json")
 });
 
 module.exports = app;
