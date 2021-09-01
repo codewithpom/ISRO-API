@@ -12,7 +12,7 @@ const app = express.Router()
 
 
 function make_resp(res, file_name) {
-  const content = fs.readFileSync(path.join("../data", file_name))
+  const content = fs.readFileSync(path.join("data", file_name))
   res.removeHeader("x-powered-by")
   res.json(JSON.parse(content))
   return res
