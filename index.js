@@ -1,6 +1,8 @@
 const express = require("express")
 const product = require("./api/product")
 const twitter = require("./api/twitter_api")
+var cors = require('cors')
+app.use(cors())
 
 const app = express();
 
