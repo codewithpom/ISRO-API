@@ -2,6 +2,8 @@ const Twit = require('twit');
 const express = require('express')
 const app = express.Router()
 const fs = require('fs')
+const cors = require('cors')
+app.use(cors())
 
 require('dotenv').config(); // config for dotenv
 // create twiter client for information
